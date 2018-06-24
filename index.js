@@ -22,5 +22,4 @@ return array
 }
 do {
   array.push("I love the Beatles")
-  
-}
+  }while
