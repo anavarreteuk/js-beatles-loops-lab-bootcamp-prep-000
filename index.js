@@ -21,5 +21,5 @@ var array = []
 return array
 }
 do {
-  array.push("I love the Beatles")
+  array.push("I love the Beatles!")
   } while(n < 15)
